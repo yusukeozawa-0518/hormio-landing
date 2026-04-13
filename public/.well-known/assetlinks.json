@@ -1,0 +1,10 @@
+﻿[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yusukeizawa.hispitalsteps3",
+    "sha256_cert_fingerprints": [
+      "41:7E:A6:20:3D:9F:C0:E9:DD:89:0F:FA:00:7B:45:32:24:42:D4:4B:99:26:EF:9A:34:A4:7C:EF:2A:11:15:40"
+    ]
+  }
+}]
